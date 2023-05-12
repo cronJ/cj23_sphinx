@@ -1,0 +1,8 @@
+# IDE
+.vscode
+
+# Python
+.venv/
+
+# Sphinx
+build/
